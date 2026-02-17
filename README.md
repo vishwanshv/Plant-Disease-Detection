@@ -36,15 +36,6 @@ The model is trained on a dataset of plant leaf images and learns to distinguish
 
 ---
 
-Plant-Disease-Detection/
-│
-├── Plant_Disease_Prediction_CNN_Image_Classifier.ipynb  # Main notebook
-├── data/                                                # Dataset (leaf images)
-├── models/                                              # Saved trained models
-├── results/                                             # Accuracy/loss plots, predictions
-└── README.md                                            # Project documentation
-
-
 ---
 
 ## ⚙️ How to Run
